@@ -1,0 +1,1 @@
+const o={parameters:{options:{storySort:{method:"",order:["Components","Intro"],locales:""}}},initialGlobals:{styles:{body:{margin:0,padding:0,fontFamily:"Arial, sans-serif"}}},tags:["autodocs"]};export{o as default};
